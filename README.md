@@ -5,4 +5,4 @@
 [![LICENSE](https://img.shields.io/github/license/JayMilne/Y2TR1-Methods.svg?style=flat-square)](https://github.com/JayMilne/Y2TR1-Methods/blob/main/LICENSE)
 [![Releases](https://img.shields.io/github/release/JayMilne/Y2TR1-Methods/all.svg?style=flat-square)](https://github.com/JayMilne/Y2TR1-Methods/releases)
 # DevOps
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/JayMilne/Y2TR1-Methods/<action name taken from main.yml>/develop?style=flat-square)
+![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/JayMilne/Y2TR1-Methods/<action my Hello World App>/develop?style=flat-square)
