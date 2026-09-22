@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1ab24ca-b265-4697-8da2-e0766f6a4369" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/mongo-integration" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JayMilne&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JayMilne/Y2TR1-Methods.git&quot;,
+    &quot;accountId&quot;: &quot;f8be4066-a181-4518-9dbc-e381f551a8d9&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.45197037637163" />
+      <entry key="MS500" value="4.257297034944977" />
+      <entry key="S2" value="8.193475572623468" />
+      <entry key="S5" value="11.698706323933902" />
+      <entry key="S10" value="14.384392743197994" />
+      <entry key="S30" value="17.164177933509507" />
+      <entry key="S60" value="18.06192287123551" />
+      <entry key="M2" value="19.4661935092778" />
+      <entry key="M5" value="28.063196968265164" />
+      <entry key="M10" value="40.24437371462685" />
+      <entry key="M15" value="50.47773443152621" />
+      <entry key="M30" value="78.49587633192297" />
+      <entry key="H1" value="115.21285486554679" />
+      <entry key="H2" value="147.4421265745147" />
+      <entry key="H4" value="169.19840677601582" />
+      <entry key="D1" value="191.13195593277368" />
+      <entry key="W1" value="195.29400047913194" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.161041898249061E-109" />
+      <entry key="S5" value="4.842782383361968E-44" />
+      <entry key="S10" value="2.2006322689995185E-22" />
+      <entry key="S30" value="6.037388997811579E-8" />
+      <entry key="S60" value="2.4571098872072373E-4" />
+      <entry key="M2" value="0.015675171090636465" />
+      <entry key="M5" value="0.18970768129466992" />
+      <entry key="M10" value="0.4355544527319977" />
+      <entry key="M15" value="0.5745947302241079" />
+      <entry key="M30" value="0.7580202703253454" />
+      <entry key="H1" value="0.8706435954656448" />
+      <entry key="H2" value="0.9330828449101632" />
+      <entry key="H4" value="0.9659621343045293" />
+      <entry key="D1" value="0.9942448506907743" />
+      <entry key="W1" value="0.9991758006965984" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3360534031536737" />
+      <entry key="MS500" value="4.156250286038474" />
+      <entry key="S2" value="8.129511038314996" />
+      <entry key="S5" value="11.659132714405137" />
+      <entry key="S10" value="14.359145075996798" />
+      <entry key="S30" value="17.153862338401545" />
+      <entry key="S60" value="18.056697189706924" />
+      <entry key="M2" value="19.47867973992495" />
+      <entry key="M5" value="28.249858857377035" />
+      <entry key="M10" value="40.67664943534077" />
+      <entry key="M15" value="51.04878758640666" />
+      <entry key="M30" value="79.25003578580488" />
+      <entry key="H1" value="116.08022135517979" />
+      <entry key="H2" value="148.37300175352087" />
+      <entry key="H4" value="170.16307776400933" />
+      <entry key="D1" value="192.1259546630009" />
+      <entry key="W1" value="196.29314028925498" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Je0GOL351agt5niJWl2izENQlE" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Docker.Docker Image (1).executor": "Run",
+    "Docker.Docker Image (2).executor": "Run",
+    "Docker.Docker Image (3).executor": "Run",
+    "Docker.Docker Image (4).executor": "Run",
+    "Docker.Docker Image.executor": "Run",
+    "Docker.Dockerfile.executor": "Run",
+    "Maven.Y2TR1-Methods [clean].executor": "Run",
+    "Maven.Y2TR1-Methods [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jaymi/Documents/Y2TR1/Methods/Y2TR1-Methods",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaymi\Documents\Y2TR1\Methods\Y2TR1-Methods" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Docker Image">
+    <configuration name="Docker Image (2)" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="sha256:ab295b2708eb81a2848d105111e827125f5be6203c77245423e558a7f477ce5a" />
+          <option name="containerName" value="" />
+          <option name="commandLineOptions" value="--network se-methods" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Docker Image (3)" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="sha256:ab295b2708eb81a2848d105111e827125f5be6203c77245423e558a7f477ce5a" />
+          <option name="containerName" value="" />
+          <option name="commandLineOptions" value="--network se-methods" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Docker Image (4)" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="sha256:3452c9b33d646fd235e34ca0a1192df7c6a0abb4eb93b38ab7d9a55cb4696b72" />
+          <option name="containerName" value="" />
+          <option name="commandLineOptions" value="--network se-methods" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="mongo:latest" />
+          <option name="containerName" value="" />
+          <option name="commandLineOptions" value="-p 27000:27017" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
+      <deployment type="docker-image" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image (4)" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.Docker Image (3)" />
+        <item itemvalue="Docker.Docker Image (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1ab24ca-b265-4697-8da2-e0766f6a4369" name="Changes" comment="" />
+      <created>1790006130112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790006130112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
